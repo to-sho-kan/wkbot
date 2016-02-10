@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/to-sho-kan/wkbot.png?label=ready&title=Ready)](https://waffle.io/to-sho-kan/wkbot)
 # wkbot
 
 wkbot is a chat bot built on the [Hubot][hubot] framework. It was
